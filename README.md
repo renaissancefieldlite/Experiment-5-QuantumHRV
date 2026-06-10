@@ -18,11 +18,7 @@ This repo now distinguishes:
 Whether the HRV metric stack produces interpretable time-domain and
 frequency-domain summaries under both a designed low-frequency coherence model
 and a hardware-derived noise/decoherence trajectory. The repo is intentionally
-narrower than the larger ontology and interface discussion. It does not, by
-itself, prove that a real quantum device has a biological-style heartbeat, and
-it does not settle whether the dominant cadence should be read as an intrinsic
-pulse, a selection window, a routing rhythm, or a broader state-transition
-effect.
+narrower than the larger ontology and interface discussion. 
 
 ## Current Read
 
